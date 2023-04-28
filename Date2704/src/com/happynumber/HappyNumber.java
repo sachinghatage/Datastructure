@@ -12,6 +12,7 @@ public class HappyNumber {
 		System.out.println(happyNumber);
 	}
 
+
 	private static boolean isHappyNumber(int n) {
 
 		Set<Integer> usedIntegers=new HashSet<>();
